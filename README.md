@@ -1,74 +1,75 @@
-Perfect — here’s your README rewritten in clean Markdown format, ready to drop into GitHub. It’s formatted for recruiters: concise, structured, and visually appealing.  
 
-You can just replace the placeholders (like your name, links, and email).  
+ About Me
+Hi,
+I'm **Valerie** — currently completing the 12‑week **AWS re/Start** programme, where I’m gaining hands‑on experience in **Cloud Computing, Linux, Networking, Python, and DevOps fundamentals**.
+I’m passionate about building secure, automated, and scalable cloud solutions, and I’m eager to bring my technical and problem‑solving skills into the industry.
 
-``markdown
-☁️ AWS re/Start Programme — 12 Weeks of Cloud Foundations & Practical Skills
-👋 About Me
-Hi! I'm [Your Name] — currently completing the 12‑week AWS re/Start programme, where I’m gaining hands-on experience in cloud computing, Linux, networking, Python, and DevOps fundamentals.  
+ Overview
+This repository documents my learning journey through the **AWS re/Start 12-week Cloud Computing Program**.  
+The program is designed to build foundational and practical skills in **cloud computing, Linux systems, networking, security, and AWS services**, preparing participants for entry-level cloud roles.
 
-I’m passionate about building secure, automated, and scalable cloud solutions that solve real-world problems. This repository documents my learning journey, key projects, and daily activities throughout the programme.
+Throughout the program, I work daily on hands-on labs, cloud architecture exercises, and real-world scenarios using the AWS platform.
 
-🧠 About the Programme
-The AWS re/Start programme is a full-time, instructor-led training designed to prepare learners for entry-level cloud roles such as:
-
-• Cloud Support Associate  
-• Junior DevOps Engineer  
-• Cloud Operations Technician  
-
-Over 12 weeks, I’ve developed the technical and professional skills needed to contribute effectively within a modern cloud environment.
-
-🗓️ Daily Breakdown
-
-Morning: Core Learning Sessions
-• Deep dives into AWS services (EC2, S3, IAM, VPC, Lambda)
-• Linux fundamentals: command-line tools, process management, and permissions
-• Python basics for automation and problem solving
-
-Afternoon: Practical Labs & Projects
-• Deploying infrastructure using the AWS Console & CLI  
-• Configuring VPCs, subnets, and security groups  
-• Implementing monitoring and scaling using CloudWatch & Auto Scaling  
-• Writing Python scripts for AWS automation tasks  
-
-End of Day: Reflection & Collaboration
-• Group discussions and daily stand-ups  
-• Team labs simulating real-world cloud scenarios  
-• Reviewing skills and preparing for certification quizzes  
-
-🧩 Key Skills & Tools
-
+---
+My Daily Activities
+### Morning – Core Learning
+- Learn key AWS services: **EC2, S3, IAM, Lambda, VPC, CloudFormation**  
+- Practice **Linux fundamentals**: command-line tools, file systems, user & permission management  
+- Write **Python scripts** for automation and problem-solving  
+### ☁️ Afternoon – Hands-on Labs & Projects
+- Build and deploy **cloud infrastructure** using AWS Console and CLI  
+- Configure **networking and security**: VPCs, subnets, route tables, security groups  
+- Use **CloudWatch and Auto Scaling** for monitoring and performance optimization  
+### End of Day – Reflection & Collaboration
+- Team projects simulating real-world cloud scenarios  
+- Daily stand-ups and peer collaboration  
+- End‑of‑day reflections and technical discussions to reinforce learning  
+---
+##  Key Skills & Tools
 | Category | Skills & Tools |
 |-----------|----------------|
-| Cloud Computing | AWS EC2, S3, IAM, Lambda, CloudFormation, VPC, RDS, CloudWatch, Auto Scaling |
-| Operating Systems | Linux fundamentals, file systems, permissions, user management, networking |
-| Networking | IP addressing, subnets, routing, DNS, firewalls, and security groups |
-| Programming & Automation | Python scripting, data structures, AWS SDK (Boto3), error handling |
-| DevOps & CI/CD (Intro Level) | Git/GitHub, scripting automation, basic pipelines |
-| Soft Skills | Communication, collaboration, Agile teamwork, problem-solving |
+| **Cloud Computing** | AWS EC2, S3, IAM, Lambda, CloudFormation, RDS, CloudWatch, Auto Scaling |
+| **Operating Systems** | Linux fundamentals, permissions management, file systems, networking commands |
+| **Networking** | IP addressing, subnets, routing, DNS, security groups, firewalls |
+| **Programming & Automation** | Python scripting, AWS SDK (Boto3), automation, debugging |
+| **DevOps Foundations** | Git/GitHub, version control, intro to CI/CD pipelines, Agile teamwork |
+| **Professional Skills** | Collaboration, problem-solving, time management, communication |
+---
+##  Highlight Projects
+###  Secure Web Application Deployment
+- Deployed an **NGINX** web server on **EC2**, with a connected **RDS** database  
+- Implemented **IAM roles** and used **security groups & subnets** for best practice security  
+- Tested network connectivity and scalability in a multi‑AZ setup  
+### 🔹 Automated Backup Script (Python + S3)
+- Created a **Python script** to automatically back up files to an **S3 bucket**  
+- Implemented file versioning, logging, and error handling for reliability  
+### 🔹 VPC Design Project
+- Designed a **custom VPC** with public and private subnets, route tables, and NAT gateways  
+- Tested secure communication between instances in different subnets  
+---
+##  Career Goal
+My goal is to begin my career as a **Cloud Engineer** or **Junior DevOps Engineer**, applying the technical training and hands-on experience I’ve gained to build reliable, secure, and scalable cloud solutions for real-world applications.
+---
+ 
+## Career Objective
 
-💻 Highlight Projects
-🔸 Deploying a Secure Web Application on AWS
-• Launched an EC2 instance with NGINX and connected to an RDS database.  
-• Configured IAM roles and implemented security measures using Security Groups and VPC subnets.
+I am currently building a strong foundation in **cloud computing and AWS technologies** and am actively seeking opportunities in roles such as:
 
-🔸 Automated File Backup with Python & S3
-• Built a Python script to automatically back up local files to an AWS S3 bucket.  
-• Implemented versioning and error handling for reliability.
+- Cloud Support Associate
+- Junior Cloud Engineer
+- AWS Operations Support
+- Cloud Infrastructure Technician
 
-🔸 VPC Design & Implementation
-• Designed a secure, multi-tier network architecture with public/private subnets.  
-• Configured route tables, NAT gateways, and tested connectivity using EC2 instances.
+---
 
-🎯 Career Goals
-I’m aiming to start my career as a Cloud Engineer or Junior DevOps Engineer, applying the skills learned through the AWS re/Start programme to deliver efficient, secure, and cloud‑native solutions.
+## Certification Path
 
-📫 Connect With Me
-• LinkedIn: [Your LinkedIn URL]  
-• GitHub: [Your GitHub Profile]  
-• Email: [youremail@example.com]  
+This program prepares participants for the **AWS Certified Cloud Practitioner certification**, validating foundational knowledge of AWS Cloud concepts, services, security, architecture, pricing, and support.
 
-⭐ Thank you for visiting my README! Check out my repositories for project demonstrations and AWS lab exercises.
-``
+---
 
-Would you like me to make a version that includes GitHub badges (e.g., for AWS, Python, Linux) to make it look more visual and “portfolio-like”? It’s a nice touch for tech recruiters browsing profiles.
+##  Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/valerie-abunaw-project-manger-pmp-agilepm]  
+- **GitHub:** [https://github.com/Valerietatawashu/aws-restart-journey/edit/main/README.md]  
+- **Email:** [valerie.abunaw@gmail.com]
+
